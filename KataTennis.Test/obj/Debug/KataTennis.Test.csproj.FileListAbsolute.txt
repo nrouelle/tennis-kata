@@ -1,0 +1,17 @@
+C:\sources\KataTennis\KataTennis.Test\bin\Debug\KataTennis.Test.dll.config
+C:\sources\KataTennis\KataTennis.Test\bin\Debug\KataTennis.Test.dll
+C:\sources\KataTennis\KataTennis.Test\bin\Debug\KataTennis.Test.pdb
+C:\sources\KataTennis\KataTennis.Test\bin\Debug\Castle.Core.dll
+C:\sources\KataTennis\KataTennis.Test\bin\Debug\KataTennis.dll
+C:\sources\KataTennis\KataTennis.Test\bin\Debug\Moq.dll
+C:\sources\KataTennis\KataTennis.Test\bin\Debug\NFluent.dll
+C:\sources\KataTennis\KataTennis.Test\bin\Debug\nunit.framework.dll
+C:\sources\KataTennis\KataTennis.Test\bin\Debug\TechTalk.SpecFlow.dll
+C:\sources\KataTennis\KataTennis.Test\bin\Debug\KataTennis.pdb
+C:\sources\KataTennis\KataTennis.Test\bin\Debug\Castle.Core.xml
+C:\sources\KataTennis\KataTennis.Test\bin\Debug\Moq.xml
+C:\sources\KataTennis\KataTennis.Test\bin\Debug\NFluent.xml
+C:\sources\KataTennis\KataTennis.Test\bin\Debug\nunit.framework.xml
+C:\sources\KataTennis\KataTennis.Test\obj\Debug\KataTennis.Test.csprojResolveAssemblyReference.cache
+C:\sources\KataTennis\KataTennis.Test\obj\Debug\KataTennis.Test.dll
+C:\sources\KataTennis\KataTennis.Test\obj\Debug\KataTennis.Test.pdb
